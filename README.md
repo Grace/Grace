@@ -20,7 +20,7 @@ I'm a **software engineer** driven by curiosity and a passion for problem-solvin
 - **Build Interactive Web Applications**: Use frameworks like **React**, **Angular**, **Spring Boot**, and more to create impactful web applications.
 - **Develop APIs**: Design and implement APIs that solve real-world problems or add value to existing systems.
 - **Automation & Utilities**: Create tools that simplify workflows and save time in both personal and professional contexts.
-- **Assistive Technology Innovations**: Build proofs of concept for ideas aimed at improving accessibility for people with disabilities.
+- **Assistive Technology Innovations**: Build proofs of concept for ideas aimed at improving accessibility.
 
 Feel free to explore my repositories, check out my projects, or just say hi! 🚀
 
