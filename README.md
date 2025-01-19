@@ -18,7 +18,7 @@ I'm a passionate software engineer with a strong interest in **data visualizatio
 - Fill out this GitHub more and make my contribution history consistently green by working on learning/passion/hobby projects.
 - Continue exploring **machine learning** and **embedded systems** through personal projects.
 - Build more **interactive web applications** with modern frameworks like **React**, **Angular**, and **Spring Boot**.
-- Develop proof of concepts for assistive technology ideas I have
+- Develop proof of concepts for my assistive technology ideas
 
 Feel free to explore my repositories, check out my projects, and connect with me!
 
