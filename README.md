@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Grace Christenbery
 
-I'm a passionate software engineer with a strong interest in **data visualization**, **machine learning**, **robotics**, and **embedded systems**. I have experience working across several domains, including **FinTech**, **Data Visualization/Graphics Programming**, **Robotics**, and **Bioinformatics**. 
+I'm a passionate software engineer with a strong interest in **data visualization**, **machine learning**, **robotics**, and **embedded systems**. I have experience working across several domains, including **FinTech**, **Data Visualization, Graphics Programming**, **Robotics**, and **Bioinformatics**. 
 
 ## Skills & Interests
 
