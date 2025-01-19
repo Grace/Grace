@@ -29,3 +29,5 @@ Feel free to explore my repositories, check out my projects, or just say hi! �
 - [Email](mailto:grace@gracefulco.de)
 
 Thanks for visiting my GitHub—let’s build something amazing together! 😊
+
+[Buy Me a Coffee](https://buymeacoffee.com/gracefulcode)
