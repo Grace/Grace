@@ -11,12 +11,14 @@ I'm a passionate software engineer with a strong interest in **data visualizatio
 - **Data Visualization & Graphics Programming**: Creating intuitive and visually appealing data-driven applications
 - **Robotics**: Robotics is the study and practice of designing, building, and using robots. In the past, I developed code to control a Nao robot with Leap Motion gestures.
 - **Bioinformatics**: Applying computational techniques to biological data. I've developed graphics/data visualization software for researchers at MIT, MIT Lincoln Laboratory, UC Berkeley, and the University of North Carolina at Charlotte.
+- **Accessibility & Assistive Technology**: I am also interested in developing assistive technology, specifically for people with hearing loss and individuals affected by face/place blindness. I hope to find time to work on accessibility proof of concepts soon.
 
 ## Current Goals
 
 - Fill out this GitHub more and make my contribution history consistently green by working on learning/passion/hobby projects.
 - Continue exploring **machine learning** and **embedded systems** through personal projects.
 - Build more **interactive web applications** with modern frameworks like **React**, **Angular**, and **Spring Boot**.
+- Develop proof of concepts for assistive technology ideas I have
 
 Feel free to explore my repositories, check out my projects, and connect with me!
 
