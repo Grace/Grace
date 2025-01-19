@@ -11,7 +11,7 @@ I'm a **software engineer** driven by curiosity and a passion for problem-solvin
 - **Data Visualization & Graphics Programming**: Creating intuitive, visually compelling applications to make complex data more understandable.
 - **Robotics**: Combining software and hardware to bring robots to life. For example, I’ve programmed a Nao robot to be controlled via Leap Motion gestures.
 - **Bioinformatics**: Leveraging computational tools to advance biological research. My work includes creating photography & data visualization software for researchers at institutions such as MIT, UC Berkeley, and UNC Charlotte.
-- **Accessibility & Assistive Technology**: Exploring ways to empower individuals with hearing loss or face/place blindness through innovative tech solutions.
+- **Accessibility & Assistive Technology**: Exploring ways to empower individuals with disabilities through innovative tech solutions.
 
 ## 🎯 Current Goals
 
