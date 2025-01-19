@@ -8,9 +8,9 @@ I'm a **software engineer** driven by curiosity and a passion for problem-solvin
 - **Machine Learning**: Experimenting with algorithms to derive data-driven insights and predictions.
 - **Embedded Systems**: Crafting solutions for resource-constrained hardware environments.
 - **FinTech**: Developing financial technology solutions and working on innovative industry projects.
-- **Data Visualization & Graphics Programming**: Creating intuitive, visually compelling applications to make complex data more understandable.
+- **Data Visualization & Graphics Programming**: Creating intuitive, visually compelling applications to make complex data more understandable. My work includes creating photography & data visualization software for researchers at institutions such as MIT, UC Berkeley, and UNC Charlotte.
 - **Robotics**: Combining software and hardware to bring robots to life. For example, I’ve programmed a Nao robot to be controlled via Leap Motion gestures.
-- **Bioinformatics**: Leveraging computational tools to advance biological research. My work includes creating photography & data visualization software for researchers at institutions such as MIT, UC Berkeley, and UNC Charlotte.
+- **Bioinformatics**: Leveraging computational tools to advance biological research.
 - **Accessibility & Assistive Technology**: Exploring ways to increase accessibility through innovative tech solutions.
 
 ## 🎯 Current Goals
