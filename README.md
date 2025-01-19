@@ -2,7 +2,7 @@
 
 I'm a **software engineer** driven by curiosity and a passion for problem-solving. My interests span **game development**, **data visualization**, **machine learning**, **robotics**, and **embedded systems**.
 
-I’ve had the privilege of gaining experience across diverse domains, including **FinTech**, **Computer Graphics Programming**, **Robotics**, and **Bioinformatics**.
+I’ve had the privilege of gaining experience across diverse domains, including **Computer Graphics Programming**, **Robotics**, and **Bioinformatics**, and **FinTech**.
 
 ## 🛠 Skills & Interests
 
