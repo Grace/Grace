@@ -19,7 +19,7 @@ I’ve had the privilege of gaining experience across diverse domains, including
 
 - **Enrich My GitHub**: Populate my GitHub with meaningful projects and maintain a consistently green contribution graph through learning, passion, and hobby projects.
 - **Explore Machine Learning & Embedded Systems**: Deepen my knowledge and expertise in these areas through hands-on projects.
-- **Build Interactive Web Applications**: Use frameworks like **React**, **Angular**, **Spring Boot**, and more to create impactful web applications.
+- **Game Development**: Learn more about making games and game engines.
 - **Develop APIs**: Design and implement APIs that solve real-world problems or add value to existing systems.
 - **Automation & Utilities**: Create tools that simplify workflows and save time in both personal and professional contexts.
 - **Assistive Technology Innovations**: Build proofs of concept for ideas aimed at improving accessibility.
