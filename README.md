@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Grace Christenbery
+# Grace Christenbery
 
 I'm a **software engineer** driven by curiosity and a passion for problem-solving. My interests span **game development**, **data visualization**, **machine learning**, **robotics**, and **embedded systems**.
 
