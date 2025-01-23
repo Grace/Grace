@@ -32,4 +32,6 @@ Feel free to explore my repositories, check out my projects, or just say hi! �
 
 Thanks for visiting my GitHub—let’s build something amazing together! 😊
 
+[<img src="[path/to/image.png](https://cdn.buymeacoffee.com/buttons/v2/default-green.png)">]([https://link-to-your-URL/](https://buymeacoffee.com/gracefulcode)/)
+
 [Buy Me a Coffee](https://buymeacoffee.com/gracefulcode)
