@@ -33,5 +33,3 @@ Feel free to explore my repositories, check out my projects, or just say hi! �
 Thanks for visiting my GitHub—let’s build something amazing together! 😊
 
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" width="237" height="77">](https://buymeacoffee.com/gracefulcode)
-
-[Buy Me a Coffee](https://buymeacoffee.com/gracefulcode)
