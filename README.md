@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Grace Christenbery
 
-I'm a **software engineer** driven by curiosity and a passion for problem-solving. My interests span **software engineering**, **software architecture**, **data visualization**, **machine learning**, **game development**, **robotics**, and **embedded systems**.
+I'm a **software engineer** driven by curiosity and a passion for problem-solving.
 
-I’ve had the privilege of gaining experience across diverse domains, including **Computer Graphics Programming**, **Robotics**, **Bioinformatics**, **Data Visualization**, and **FinTech**.
+I’ve had the privilege of gaining experience across diverse technical and business domains, including **Computer Graphics Programming**, **Robotics**, **Bioinformatics**, **Data Visualization**, and **FinTech**. My interests span **software engineering**, **software architecture**, **data visualization**, **machine learning**, **game development**, **robotics**, and **embedded systems**.
 
 ## 🛠 Skills & Interests
 
