@@ -2,15 +2,17 @@
 
 I'm a **software engineer** driven by curiosity and a passion for problem-solving.
 
-I’ve had the privilege of gaining experience across diverse technical and business domains, including **Computer Graphics Programming**, **Robotics**, **Bioinformatics**, **Data Visualization**, and **FinTech**. My interests span **software engineering**, **software architecture**, **data visualization**, **machine learning**, **game development**, **robotics**, and **embedded systems**.
+I’ve had the privilege of gaining experience across diverse technical and business domains, including **Computer Graphics Programming**, **Robotics**, **Bioinformatics**, **Data Visualization**, and **FinTech**.
 
-## 🛠 Skills & Interests
+My interests span **software engineering**, **software architecture**, **data visualization**, **machine learning**, **game development**, **robotics**, and **embedded systems**.
+
+## 🛠 Skills
 
 - **Software Engineering**: Building scalable, efficient, and high-performance systems.
+- **Data Visualization & Graphics Programming**: Creating intuitive, visually compelling applications to make complex data more understandable. My work includes creating photography & data visualization software for researchers at institutions such as MIT, UC Berkeley, and UNC Charlotte.
+- **FinTech**: Developing financial technology solutions and working on innovative industry projects.
 - **Machine Learning**: Experimenting with algorithms to derive data-driven insights and predictions.
 - **Embedded Systems**: Crafting solutions for resource-constrained hardware environments.
-- **FinTech**: Developing financial technology solutions and working on innovative industry projects.
-- **Data Visualization & Graphics Programming**: Creating intuitive, visually compelling applications to make complex data more understandable. My work includes creating photography & data visualization software for researchers at institutions such as MIT, UC Berkeley, and UNC Charlotte.
 - **Robotics**: Combining software and hardware to bring robots to life. For example, I’ve programmed a Nao robot to be controlled via Leap Motion gestures.
 - **Bioinformatics**: Leveraging computational tools to advance biological research.
 - **Accessibility & Assistive Technology**: Exploring ways to increase accessibility through innovative tech solutions.
