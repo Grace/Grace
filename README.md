@@ -30,7 +30,6 @@ Feel free to explore my repositories, check out my projects, or just say hi! �
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/glchriste/)
-- [Email](mailto:grace@gracefulco.de)
 
 Thanks for visiting my GitHub—let’s build something amazing together! 😊
 
