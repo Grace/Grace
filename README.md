@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Grace Christenbery
 
+[My Blog](grace.github.io)
+
 I'm a **software engineer** driven by curiosity and a passion for problem-solving.
 
 I’ve had the privilege of gaining experience across diverse technical and business domains, including **Computer Graphics Programming**, **Robotics**, **Bioinformatics**, **Data Visualization**, and **FinTech**.
