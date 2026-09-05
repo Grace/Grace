@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Grace Christenbery
 
-[My Blog](grace.github.io)
+[My Blog](https://grace.github.io)
 
 I'm a **software engineer** driven by curiosity and a passion for problem-solving.
 
